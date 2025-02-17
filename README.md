@@ -4,9 +4,9 @@ Welcome to the **AI19642 - Time Series Analysis and Forecasting Repository**! Th
 
 ## 📂 Notebooks
 
-1. 📘 [Time Series Experiment 1](https://colab.research.google.com/drive/1EpNkO3x1KZwI8XK9C9qu8BZLbE5f6Z1b)
-2. 📙 [Time Series Experiment 2](https://colab.research.google.com/drive/1EqbMtxz7akQxeVaXqLJyuhJ1raQ0sMuB)
-3. 📗 [Time Series Experiment 3](https://colab.research.google.com/drive/19P8d3ZdmaD9WWaxYvcPUYgaDN5BH7D6q)
+1. 📘 [Time Series Experiment 1]
+2. 📙 [Time Series Experiment 2]
+3. 📗 [Time Series Experiment 3]
 
 ## 🚀 Getting Started
 
