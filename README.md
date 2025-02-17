@@ -1,35 +1,38 @@
-📈 AI19642 - Time Series Analysis and Forecasting
+# 📈 AI19642 - Time Series Analysis and Forecasting
 
-Welcome to the AI19642 - Time Series Analysis and Forecasting Repository! This collection of Jupyter Notebooks, hosted on Google Colab, explores various techniques and methodologies for analyzing and forecasting time series data. 📊⏳
+Welcome to the **AI19642 - Time Series Analysis and Forecasting Repository**! This collection of Jupyter Notebooks, hosted on **Google Colab**, explores various techniques and methodologies for analyzing and forecasting time series data. 📊⏳
 
-📂 Notebooks
+## 📂 Notebooks
 
-📘 Time Series Experiment 1
+1. 📘 [Time Series Experiment 1](https://colab.research.google.com/drive/1EpNkO3x1KZwI8XK9C9qu8BZLbE5f6Z1b)
+2. 📙 [Time Series Experiment 2](https://colab.research.google.com/drive/1EqbMtxz7akQxeVaXqLJyuhJ1raQ0sMuB)
+3. 📗 [Time Series Experiment 3](https://colab.research.google.com/drive/19P8d3ZdmaD9WWaxYvcPUYgaDN5BH7D6q)
 
-📙 Time Series Experiment 2
+## 🚀 Getting Started
 
-📗 Time Series Experiment 3
+To explore these time series experiments, simply **open the links in Google Colab** and execute the cells in order. Ensure you have all necessary dependencies installed. Some notebooks may require **GPU/TPU acceleration**, which you can enable in Colab’s runtime settings. ⚡
 
-🚀 Getting Started
-
-To explore these time series experiments, simply open the links in Google Colab and execute the cells in order. Ensure you have all necessary dependencies installed. Some notebooks may require GPU/TPU acceleration, which you can enable in Colab’s runtime settings. ⚡
-
-🛠 Requirements
+## 🛠 Requirements
 
 These notebooks utilize various Python libraries for time series analysis and forecasting. Install any missing dependencies using:
 
+```bash
 pip install -r requirements.txt
+```
 
-(If a requirements.txt file is not available, check the imports in the notebooks and install them manually.) 🏗
+(If a `requirements.txt` file is not available, check the imports in the notebooks and install them manually.) 🏗
 
-🎯 Usage
+## 🎯 Usage
 
-🔗 Open the respective notebook link in Google Colab.
+1. 🔗 Open the respective notebook link in Google Colab.
+2. ▶️ Run the cells sequentially to perform the analysis.
+3. 🛠 Modify parameters or code as needed to experiment with different forecasting techniques.
 
-▶️ Run the cells sequentially to perform the analysis.
+## 🤝 Contribution
 
-🛠 Modify parameters or code as needed to experiment with different forecasting techniques.
+We welcome contributions! 🏆 Feel free to **fork this repository**, add new time series experiments, and submit pull requests. If you encounter any issues, please **open an issue** in this repository. 
 
-🤝 Contribution
+## 📜 License
 
-We welcome contributions! 🏆 Feel free to fork this repository, add new time series experiments, and submit pull requests. If you encounter any issues, please open an issue in this repository.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 📄
+
