@@ -1,38 +1,86 @@
-# 📈 AI19642 - Time Series Analysis and Forecasting
+# 📈 AI19642 - Time Series Analysis and Forecasting  
 
-Welcome to the **AI19642 - Time Series Analysis and Forecasting Repository**! This collection of Jupyter Notebooks, hosted on **Google Colab**, explores various techniques and methodologies for analyzing and forecasting time series data. 📊⏳
+Welcome to the **Time Series Analysis (TSA) Lab Experiments** by **SudharsaaX**! This repository contains Jupyter Notebooks exploring various techniques for analyzing and forecasting time series data. 📊⏳  
 
-## 📂 Notebooks
+---
 
-1. 📘 [Time Series Experiment 1]
-2. 📙 [Time Series Experiment 2]
-3. 📗 [Time Series Experiment 3]
+## 📂 Notebooks  
 
-## 🚀 Getting Started
+1. 📘 **[EXP-01.ipynb]** - *Introduction to Time Series Analysis: Understanding Data Patterns and Trends*  
+2. 📙 **[EXP-02.ipynb]** - *Time Series Decomposition: Separating Seasonal, Trend, and Residual Components*  
+3. 📗 **[EXP-03.ipynb]** - *Autoregressive Integrated Moving Average (ARIMA) Modeling for Time Series Forecasting*  
+4. 📕 **[EXP-05.ipynb]** - *Implementing Exponential Smoothing Techniques for Time Series Prediction*  
+5. 📓 **[EXP-06.ipynb]** - *Seasonal Decomposition of Time Series (STL): Analyzing Seasonal Patterns*  
+6. 📒 **[EXP-07.ipynb]** - *Advanced Forecasting with Prophet: Handling Seasonality and Holidays*  
 
-To explore these time series experiments, simply **open the links in Google Colab** and execute the cells in order. Ensure you have all necessary dependencies installed. Some notebooks may require **GPU/TPU acceleration**, which you can enable in Colab’s runtime settings. ⚡
+---
 
-## 🛠 Requirements
+## 🚀 Getting Started  
 
-These notebooks utilize various Python libraries for time series analysis and forecasting. Install any missing dependencies using:
+To explore these TSA experiments, **open the notebooks in Google Colab** and execute the cells in order. Some notebooks may require **GPU/TPU acceleration**, which can be enabled in Colab’s runtime settings. ⚡  
+
+---
+
+## 📥 How to Download and Use  
+
+Follow these steps to **download and run the notebooks locally**:  
+
+### 🔹 **Step 1: Clone the Repository**  
+
+Open a terminal and run:  
+
+```bash
+git clone https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting.git
+```
+
+Alternatively, you can **download the ZIP file** from GitHub:  
+
+1. Click on the **"Code"** button (green button at the top).  
+2. Select **"Download ZIP"** and extract it.  
+
+### 🔹 **Step 2: Navigate to the Directory**  
+
+After cloning or extracting, move into the folder:  
+
+```bash
+cd AI19642-Time-Series-Analysis-and-Forecasting
+```
+
+### 🔹 **Step 3: Install Dependencies**  
+
+If a `requirements.txt` file is available, install dependencies using:  
 
 ```bash
 pip install -r requirements.txt
 ```
 
-(If a `requirements.txt` file is not available, check the imports in the notebooks and install them manually.) 🏗
+(If `requirements.txt` is unavailable, manually install required libraries based on the imports in the notebooks.)  
 
-## 🎯 Usage
+### 🔹 **Step 4: Open the Notebooks**  
 
-1. 🔗 Open the respective notebook link in Google Colab.
-2. ▶️ Run the cells sequentially to perform the analysis.
-3. 🛠 Modify parameters or code as needed to experiment with different forecasting techniques.
+To launch Jupyter Notebook:  
 
-## 🤝 Contribution
+```bash
+jupyter notebook
+```
 
-We welcome contributions! 🏆 Feel free to **fork this repository**, add new time series experiments, and submit pull requests. If you encounter any issues, please **open an issue** in this repository. 
+Then open the respective `.ipynb` file and run the cells in order.  
 
-## 📜 License
+---
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details. 📄
+## 🎯 Usage  
 
+1. 🔗 Open the respective notebook in Google Colab or Jupyter Notebook.  
+2. ▶️ Run the cells sequentially to perform the analysis.  
+3. 🛠 Modify parameters or code as needed to experiment with different forecasting techniques.  
+
+---
+
+## 🤝 Contribution  
+
+For contributions, feel free to fork the repository and submit pull requests.  
+📧 Contact: **221501149@rajalakshmi.edu.in**  
+
+---
+
+🚀 **By SudharsaaX** – Time Series Analysis Lab  
