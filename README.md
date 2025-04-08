@@ -9,10 +9,11 @@ Welcome to the **Time Series Analysis (TSA) Lab Experiments** by **SudharsaaX**!
 1. 📘 **[EXP-01.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-01.ipynb)** - *Introduction to Time Series Analysis: Understanding Data Patterns and Trends*  
 2. 📙 **[EXP-02.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-02.ipynb)** - *Time Series Decomposition: Separating Seasonal, Trend, and Residual Components*  
 3. 📗 **[EXP-03.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-03.ipynb)** - *Autoregressive Integrated Moving Average (ARIMA) Modeling for Time Series Forecasting*  
-4. 📕 **[EXP-05.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-05.ipynb)** - *Implementing Exponential Smoothing Techniques for Time Series Prediction*  
-5. 📓 **[EXP-06.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-06.ipynb)** - *Seasonal Decomposition of Time Series (STL): Analyzing Seasonal Patterns*  
-6. 📒 **[EXP-07.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-07.ipynb)** - *Advanced Forecasting with Prophet: Handling Seasonality and Holidays*  
-
+4. 📔 **[EXP-04.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-04.ipynb)** - *Autocorrelation and Partial Autocorrelation Analysis: Identifying Patterns and Lags*  
+5. 📕 **[EXP-05.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-05.ipynb)** - *Implementing Exponential Smoothing Techniques for Time Series Prediction*  
+6. 📓 **[EXP-06.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-06.ipynb)** - *Seasonal Decomposition of Time Series (STL): Analyzing Seasonal Patterns*  
+7. 📒 **[EXP-07.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-07.ipynb)** - *Advanced Forecasting with Prophet: Handling Seasonality and Holidays*  
+8. 📚 **[EXP-08.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-08.ipynb)** - *Evaluating Forecast Accuracy: MAPE, RMSE, MAE and More*  
 ---
 
 ## 🚀 Getting Started  
