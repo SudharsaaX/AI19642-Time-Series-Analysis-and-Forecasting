@@ -14,6 +14,9 @@ Welcome to the **Time Series Analysis (TSA) Lab Experiments** by **SudharsaaX**!
 6. 📓 **[EXP-06.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-06.ipynb)** - *Seasonal Decomposition of Time Series (STL): Analyzing Seasonal Patterns*  
 7. 📒 **[EXP-07.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-07.ipynb)** - *Advanced Forecasting with Prophet: Handling Seasonality and Holidays*  
 8. 📚 **[EXP-08.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-08.ipynb)** - *Evaluating Forecast Accuracy: MAPE, RMSE, MAE and More*  
+9. 🧠 **[EXP-09.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-09.ipynb)** - *Neural Network-Based Time Series Forecasting (MLP, LSTM)*  
+10. 🔄 **[EXP-10.ipynb](https://github.com/SudharsaaX/AI19642-Time-Series-Analysis-and-Forecasting/blob/main/EXP-10.ipynb)** - *Multivariate Forecasting using Vector AutoRegression (VAR)*  
+
 ---
 
 ## 🚀 Getting Started  
